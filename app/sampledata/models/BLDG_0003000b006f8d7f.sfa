@@ -1,0 +1,567 @@
+{
+  materials: [
+    {
+      name: 'Polygon_Material_0',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12697',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_1',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12699',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_2',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12696',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_3',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12698',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_4',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12695',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_5',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12705',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_6',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12703',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_7',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12700',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_8',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12704',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_9',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12702',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_10',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: 'tex12701',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Polygon_Material_11',
+      parameters: [
+        {
+          baseColor: [
+            0.5,
+            0.5,
+            0.5,
+            1,
+          ],
+        },
+        {
+          baseColorMap: null,
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbx',
+    name: 'BLDG_0003000b006f8d7f',
+    recenter: 'root',
+  },
+  samplers: [
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12704.jpg',
+      name: 'tex12704',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12704.jpg',
+    },
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12700.jpg',
+      name: 'tex12700',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12700.jpg',
+    },
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12701.jpg',
+      name: 'tex12701',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12701.jpg',
+    },
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12703.jpg',
+      name: 'tex12703',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12703.jpg',
+    },
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12705.jpg',
+      name: 'tex12705',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12705.jpg',
+    },
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12696.jpg',
+      name: 'tex12696',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12696.jpg',
+    },
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12695.jpg',
+      name: 'tex12695',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12695.jpg',
+    },
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12698.jpg',
+      name: 'tex12698',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12698.jpg',
+    },
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12702.jpg',
+      name: 'tex12702',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12702.jpg',
+    },
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12699.jpg',
+      name: 'tex12699',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12699.jpg',
+    },
+    {
+      file: '/Users/derk/cProjects/citygml-to-fbx/output/BLDG_0003000b006f8d7f.fbm/tex12697.jpg',
+      name: 'tex12697',
+      pipeline_name: 'BLDG_0003000b006f8d7f.fbm/tex12697.jpg',
+    },
+  ],
+  version: '0.52:1',
+}

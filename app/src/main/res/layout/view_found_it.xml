@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:id="@+id/foundItView"
+              android:layout_width="175dp"
+              android:layout_height="wrap_content"
+              android:background="@drawable/rounded_bg"
+              android:orientation="vertical"
+              android:padding="4dp"
+              android:clipChildren="false"
+              android:clipToPadding="false" >
+
+    <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gevonden"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:background="@color/colorPrimaryDark"/>
+
+
+</LinearLayout>

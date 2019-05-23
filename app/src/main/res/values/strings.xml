@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sint</string>
+    <string name="zipExists">Assets zip exists</string>
+    <string name="createFolder">Creating assets folder..</string>
+    <string name="downloading">Downloading zip file..</string>
+    <string name="unpacking">Unpacking assets..</string>
+    <string name="done">Done!</string>
+    <string name="notYetDownloaded">Assets not yet downloaded</string>
+    <string name="gevonden">Je hebt de reichstag gevonden! Wat goed! Sint zijn cadeau ligt in de slaapkamer op het bureau</string>
+    <string name="intro1">
+        Lieve Stans, eerst nog enkele instructies voordat de zoektocht begint.
+        Zodra het begint, dan gaat de camera aan. Het ziet er dan uit zoals het plaatje hieronder.
+        Ga op dat moment in het midden van de kamer staan en wijs met de camera naar de vloer.
+    </string>
+    <string name="intro2">
+        Als je de camera lang genoeg richting de vloer wijst, dan herkent de app dat het een vloeroppervlakte is.
+        Er komen dan stippen te zien (zoals het plaatje hieronder). Druk één keer op een van de stippen.
+        De zoektocht naar de Reichstag kan beginnen. Succes!
+    </string>
+    <string name="verder">Ga verder</string>
+    <string name="startSearch">Begin Zoektocht</string>
+</resources>
